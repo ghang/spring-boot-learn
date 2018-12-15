@@ -1,0 +1,7 @@
+# yml格式文件是spring boot推荐的配置文件格式,相比properties格式的纯文本key-value形式要更加直观简洁
+# yml文件基于YAML语言,在spring-boot-starter中已经提供了支持
+
+# yml自动配置示例
+person:
+  name: guan zhenhang
+  age: 26
